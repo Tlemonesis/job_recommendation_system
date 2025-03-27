@@ -1,1 +1,2 @@
 # job_recommendation_system
+This project is inspired by job recommendation systems, specifically tailored for students pursuing technical disciplines. Utilizing knowledge related to recommendation systems and natural language processing, this model processes user-provided information—such as their major, hard skills, and soft skills. Leveraging pre-trained machine learning functions and models, the model delivers customized career suggestions to empower students in making informed decisions about their professional paths.
